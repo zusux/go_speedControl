@@ -1,0 +1,21 @@
+# github.com/go-echarts/go-echarts v1.0.0
+github.com/go-echarts/go-echarts/charts
+github.com/go-echarts/go-echarts/datasets
+github.com/go-echarts/go-echarts/datatypes
+github.com/go-echarts/go-echarts/templates
+# github.com/konsorten/go-windows-terminal-sequences v1.0.3
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f
+github.com/lestrrat/go-file-rotatelogs
+# github.com/lestrrat/go-strftime v0.0.0-20180220042222-ba3bf9c1d042
+github.com/lestrrat/go-strftime
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
+github.com/rifflock/lfshook
+# github.com/sirupsen/logrus v1.6.0
+github.com/sirupsen/logrus
+# golang.org/x/sys v0.0.0-20190422165155-953cdadca894
+golang.org/x/sys/unix
+# gopkg.in/ini.v1 v1.57.0
+gopkg.in/ini.v1
